@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs MongoDB Expess.js**
 
-- 👨‍💻 All of my projects are available at [[https://tranquil-cajeta-e99290.netlify.app/](https://tranquil-cajeta-e99290.netlify.app/](https://bucolic-malasada-28b9ca.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://bucolic-malasada-28b9ca.netlify.app/]
 
 - 💬 Ask me about **HTML CSS JS React Redux TypeScript etc.**
 
